@@ -21,7 +21,19 @@ C# ve Windows Forms kullanılarak geliştirilmiş, çoktan seçmeli sorularla ku
 
 ## Ekran Görüntüleri
 
-Uygulama ekran görüntüleri bu bölüme eklenecektir.
+
+### Quiz ekranı
+![Quiz uygulaması - soru ekranı](QUIZUYG1.png)
+
+### Cevap kontrolü
+![Quiz uygulaması - cevap kontrolü](QUIZUYG2.png)
+
+### Test sonucu
+![Quiz uygulaması - sonuç ekranı](QUIZUYG3.png)
+
+### Soru ekranı
+![Quiz uygulaması - soru görünümü](QUIZUYG4.png)
+
 
 ## Çalıştırma
 
