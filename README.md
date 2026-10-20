@@ -25,13 +25,13 @@ C# ve Windows Forms kullanılarak geliştirilmiş, çoktan seçmeli sorularla ku
 ### Quiz ekranı
 ![Quiz uygulaması - soru ekranı](QUIZUYG1.png)
 
-### Cevap kontrolü
+### Yanlış cevap
 ![Quiz uygulaması - cevap kontrolü](QUIZUYG2.png)
 
-### Test sonucu
+### Doğru cevap
 ![Quiz uygulaması - sonuç ekranı](QUIZUYG3.png)
 
-### Soru ekranı
+### Sonuç ekranı
 ![Quiz uygulaması - soru görünümü](QUIZUYG4.png)
 
 
